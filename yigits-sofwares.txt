@@ -9,14 +9,17 @@
 <p>I have intermediate knowledge in linux systems.</p>
 <p>My closeness to free software made this site available.</p>
 <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
-<p><a href="link">portfolio</a>.</p>
-<!-- delaydelaydelaydelaydelaydelaydelay -->
-<p>About Me <a href="link"> Here you go</a>.</p>
-<!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
-<p>linkler, here: <br /> <a href="link1">Profile1</a> <br /> <a href="link2">Profile2</a> and <br /> <a href="link3">Profile3</a>.</p>
+
+
+
+<!--  <p>About Me <a href="link"> Here you go</a>.</p> -->
+
+<p>If you want to contact me, you can use these addresses without hesitation. <br /> <a href="link1">https://twitter.com/yigitpv</a> <br /> <a href="link2">yigiit@protonmail.com</a> and <br /> <a href="link3">Profile3</a>.</p>
 <p>For communication</p>
 <!-- slightdelayhere-->
-<p>Feel free to send me an email at</p>
+
+<!-- <p>Feel free to send me an email at</p> -->
 <!-- longlonglongcomment -->
-<p><a href="yigiit@protonmail.com">Email</a>.</p>
+
+<!-- <p><a href="yigiit@protonmail.com">Email</a>.</p> -->
 <p>Cheers!</p>
