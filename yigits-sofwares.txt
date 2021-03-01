@@ -16,7 +16,7 @@
 <p>linkler, here: <br /> <a href="link1">Profile1</a> <br /> <a href="link2">Profile2</a> and <br /> <a href="link3">Profile3</a>.</p>
 <p>For communication</p>
 <!-- slightdelayhere-->
-<p>, feel free to send me an email at</p>
+<p>Feel free to send me an email at</p>
 <!-- longlonglongcomment -->
-<p><a href="Your email ID">Email</a>.</p>
+<p><a href="yigiit@protonmail.com">Email</a>.</p>
 <p>Cheers!</p>
