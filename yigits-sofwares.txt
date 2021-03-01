@@ -1,6 +1,6 @@
 <p><span id="a">yigit@stallman</span>:<span id="b">~</span><span id="c">$</span> cd /yigits-softwares/</p>
 <!-- laglaglaglaglaglag -->
-<p>About_Us <span id="a">yigit@stallman</span>:<span id="b">~</span><span id="c">$</span> cat</p>
+<p> <span id="a">yigit@stallman</span>:<span id="b">~</span><span id="c">$</span> cat</p>
 <!-- laglaglaglaglaglaglaglaglag -->
 <p>yigits-sofwares.txt<br /><br /> My favorite code quote, "Coding for happiness".</p>
 <!-- sjkfhskjf -->
