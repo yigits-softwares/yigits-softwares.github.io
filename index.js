@@ -99,7 +99,7 @@ function replaceUrls(text) {
 	}
 }
 
-Typer.speed=3;
+Typer.speed=1;
 Typer.file="yigits-sofwares.txt"; // my-name
 Typer.init();
  
