@@ -14,7 +14,7 @@
 
 <!--  <p>About Me <a href="link"> Here you go</a>.</p> -->
 
-<p>If you want to contact me, you can use these addresses without hesitation. <br /> <a href="link1">https://twitter.com/yigitpv</a> <br /> <a href="link2">yigiit@protonmail.com</a> and <br /> <a href="link3">Profile3</a>.</p>
+<p>If you want to contact me, you can use these addresses without hesitation. <br /> <a href="https://twitter.com/yigitpv">https://twitter.com/yigitpv</a> <br /> <a href="yigiit@protonmail.com">yigiit@protonmail.com</a> and <br /> <!-- <a href="link3">Profile3</a>.</p> -->
 <p>For communication</p>
 <!-- slightdelayhere-->
 
@@ -22,4 +22,4 @@
 <!-- longlonglongcomment -->
 
 <!-- <p><a href="yigiit@protonmail.com">Email</a>.</p> -->
-<p>Cheers!</p>
+<!-- <p>Cheers!</p> -->
